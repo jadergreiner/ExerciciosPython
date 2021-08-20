@@ -1,0 +1,4 @@
+
+- A atividade está resolvida no Jupyter
+
+- Os arquivos py são para o teste unitário
