@@ -10,3 +10,4 @@
 - O arquivo está no diretório também
 - A proposta do teste é enviar as possibilidades do serviço
 - Executei por dentro do Pycharm e o resultado foi este. Pode ir alterando os valores para retornar com falha também.
+ ![](Testes.png)
