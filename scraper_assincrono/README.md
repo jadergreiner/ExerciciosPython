@@ -1,10 +1,10 @@
 # Execução de Scraper assincrono
-![](pokemon.png)
+![](pokemon.PNG)
 
 ### No arquivo de execução concorrente estou utilizando asyncio
 - Requisitamos a API pokemon
-- buscamos o nome a a imagem do pokemons
-- limitamos a busca para 100 pokemons
+- buscamos o nome e a imagem do pokemons
+- limitamos a busca para 100 pokemons(urls)
 - salvamos as imagens em um diretorio
 
 
