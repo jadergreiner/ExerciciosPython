@@ -1,0 +1,26 @@
+<MyBoxLayout>:
+  orientation: 'vertical'
+  BoxLayout:
+    Label:
+      id: 'a'
+      text: 'Informe o primeiro nome'
+      font_size: 20
+    TextInput:
+      id: 'a'
+      font_size: 20
+  BoxLayout:
+    Label:
+      text: 'Informe o sobrenome'
+      id: 'b'
+      font_size: 20
+    TextInput:
+      text: root.sobrenome
+      font_size: 20
+  BoxLayout:
+    Button:
+      text: 'Clique para enviar'
+      on_press: root.mudar()
+
+  BoxLayout:
+    Label:
+      text: root.result
